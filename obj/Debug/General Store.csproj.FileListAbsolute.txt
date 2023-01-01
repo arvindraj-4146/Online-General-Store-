@@ -1,0 +1,11 @@
+C:\Users\manvendra.d.tiwari\Source\repos\General Store\General Store\bin\Debug\General Store.exe.config
+C:\Users\manvendra.d.tiwari\Source\repos\General Store\General Store\bin\Debug\General Store.exe
+C:\Users\manvendra.d.tiwari\Source\repos\General Store\General Store\bin\Debug\General Store.pdb
+C:\Users\manvendra.d.tiwari\Source\repos\General Store\General Store\obj\Debug\General Store.csproj.AssemblyReference.cache
+C:\Users\manvendra.d.tiwari\Source\repos\General Store\General Store\obj\Debug\General Store.csproj.SuggestedBindingRedirects.cache
+C:\Users\manvendra.d.tiwari\Source\repos\General Store\General Store\obj\Debug\General_Store.Form1.resources
+C:\Users\manvendra.d.tiwari\Source\repos\General Store\General Store\obj\Debug\General_Store.Properties.Resources.resources
+C:\Users\manvendra.d.tiwari\Source\repos\General Store\General Store\obj\Debug\General Store.csproj.GenerateResource.cache
+C:\Users\manvendra.d.tiwari\Source\repos\General Store\General Store\obj\Debug\General Store.csproj.CoreCompileInputs.cache
+C:\Users\manvendra.d.tiwari\Source\repos\General Store\General Store\obj\Debug\General Store.exe
+C:\Users\manvendra.d.tiwari\Source\repos\General Store\General Store\obj\Debug\General Store.pdb
